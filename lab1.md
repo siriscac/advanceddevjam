@@ -68,7 +68,7 @@ We now got a new requirement from business team & more details related to target
 ### Given Information :
 
 - Employee API supports GET, POST, PUT, DELETE methods which will allow developers to Retrieve, Create, Update, Delete Employee entities. 
-- It also has an API to retrieve individual employee details using **https://apibaas-trial.apigee.net/asagar/macquarie-demo01/employees/{employeeId}** endpoint.
+- It also has an API to retrieve individual employee details using **https://cosafinity-prod.apigee.net/v1/employees/{employeeId}** endpoint.
 
 ### Business Team Requirements :
 
